@@ -1,7 +1,7 @@
-print("It is hungry code")
-hungry = input ("are you hungry?")
+print("It is play code")
+hungry = input ("are gonna play something?")
 if hungry=="Yes":
-    print("eat samosa")
+    print("lets play Lostsaga")
 	else:
 	print("do homework")
 	
